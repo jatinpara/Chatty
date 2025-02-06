@@ -48,32 +48,32 @@ https://chatty-39pn.onrender.com
 
 ## Screenshots
 
-### SignUp Page
+### SignUp Page (Desktop View)
 <div>
     <img src="screenshots/SignupPage.png" alt="Login Page" width="500"/>
 </div>
 
-### Login Page
+### Login Page (Desktop View)
 <div>
     <img src="screenshots/LoginPage.png" alt="Login Page" width="500"/>
 </div>
 
-### Chat Page (First Page After Login)
+### Chat Page (Responsive View : First Page After Login)
 <div>
     <img src="screenshots/ChatPage.png" alt="Login Page" width="500"/>
 </div>
 
-### Messaging
+### Messaging (Responsive View)
 <div>
     <img src="screenshots/Messages.png" alt="Login Page" width="500"/>
 </div>
 
-### Multiple Themes Section
+### Multiple Themes Section (Desktop View)
 <div>
     <img src="screenshots/Themes.png" alt="Login Page" width="500"/>
 </div>
 
-### Update Profile Image
+### Update Profile Image (Responsive View)
 <div>
     <img src="screenshots/UpdateProfileImage.png" alt="Login Page" width="500"/>
 </div>
